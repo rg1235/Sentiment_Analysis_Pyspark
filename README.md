@@ -78,7 +78,7 @@ For Unigram+Bigram as features the given tables indicates the accuracy obtained 
 		
 |            |Count Vect.|TF-IDF|
 |------------|---------|--------|
-|Logistic Reg|51.206%|56.146%|
+|Logistic Reg|51.20%|50.146%|
 |Naive bayes|54.343%|49.524%|
 
 
